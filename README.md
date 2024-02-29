@@ -12,39 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### Go t React Loading [https://codesandbox.io/s/mqx0ql55qp](https://codesandbox.io/s/mqx0ql55qp)
 ### Go to React HOT Toast [https://react-hot-toast.com/](https://react-hot-toast.com/)
 
-# Required Packages:
-```bash
-npm install @thirdweb-dev/react @thirdweb-dev/sdk ethers
-                  ## or
-yarn add @thirdweb-dev/react @thirdweb-dev/sdk ethers
 
-npm install react-hot-toast
-          ## or
-yarn add react-hot-toast
-
-npm install react-loading
-        ## or
-yarn add react-loading
-```
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm install
-# or
-yarn instll
-
-# and Now:
-
-npm run dev
-# or
-yarn dev
-```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
