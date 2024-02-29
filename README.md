@@ -1,6 +1,6 @@
-# 100 Ethicon NFTs Collection by JSSTACK DEVELOPERS
+# Fmint by Fabio Mughilan
 # Pre-requisites: Blockchain, JavaScript, ReactJS, JSX, HTML, CSS, TailwindCSS, Thirdweb - understanding!!
-This project is developed and designed by JSSTACK DEVELOPERS (`#ahmed_js 😅🚀🚀🚀`).
+This project is developed and designed by Fabio Mughilan
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Designed with TailwindCSS!
 # Important Links: 📣📢📣📢📣📢✈✈✈
 ### Go to ThirdWeb [https://thirdweb.com/] (https://thirdweb.com/)!
